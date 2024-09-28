@@ -17,6 +17,7 @@ class  MainTest {
         assertEquals("1777", Main.reverseInteger(7771));
     }
 
+
     @org.junit.jupiter.api.Test
     void encryptThis() {
         assertEquals("72olle 103doo 100ya", Main.encryptThis("Hello good day"));
@@ -30,3 +31,4 @@ class  MainTest {
     }
 
 }
+
